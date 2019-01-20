@@ -1,0 +1,1 @@
+The goal of this project was to build a predictive model to classify mushrooms as edible or poisonous. The data is obtained from [Kaggle] (https://www.kaggle.com/uciml/mushroom-classification/home).
